@@ -1,0 +1,15 @@
+psql -U postgres -W -h localhost ine < CANDIDATOS-DIPUTADOS.sql
+
+
+
+psql -U postgres -W -h localhost ine < CANDIDATOS-PRESIDENTE.sql
+
+
+
+
+psql -U postgres -W -h localhost ine < CANDIDATOS-SENADOR.sql
+
+
+
+
+
