@@ -1,0 +1,15 @@
+psql -U postgres -W -h localhost ine < DIPUTACIONES-VOTOS.sql
+
+
+
+psql -U postgres -W -h localhost ine < PRESIDENCIA-VOTOS.sql
+
+
+
+
+psql -U postgres -W -h localhost ine < SENADURIAS-VOTOS.sql
+
+
+
+
+
