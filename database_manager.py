@@ -3,7 +3,11 @@
 """
 Created on Wed Jan  2 00:18:05 2019
 
-@author: fredy
+@author: fredy marin
+
+uaem
+
+desonses@gmail.com
 """
 import psycopg2
 import time
