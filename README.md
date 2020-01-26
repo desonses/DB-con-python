@@ -1,4 +1,4 @@
-# DB-con-python
+# DB-Python-PostgreSQL
 Base de datos con python, PostgreSQL. Los datos fueron obtenidos de manera directa desde la pagina del INE: https://computos2018.ine.mx/#/descargaBase los datos fueron procesados de forma que No afectan Ni benefician los resultados de conteo de votos de las elecciones realizadas en México 2018, los archivos adjuntos son con propósito de mostrar el manejo de una base de datos como PostgreSQL y python.
 
 1: Crea una base de datos llamada "ine" con postgresql de manera local y ejecuta el archivo tables.py para creear las tablas necesarias.
