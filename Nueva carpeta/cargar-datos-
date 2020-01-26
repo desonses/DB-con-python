@@ -1,13 +1,18 @@
-psql -U postgres -W -h localhost ine < CANDIDATOS-DIPUTADOS.sql
+###########
+Ejecuta estas instrucciones desde tu terminal de windows para poblar la base de datos, o abre los archivos SQL con algun gestor de DB,
+como MySQL Workbench
+###########
+
+1- psql -U postgres -W -h localhost ine < CANDIDATOS-DIPUTADOS.sql
 
 
 
-psql -U postgres -W -h localhost ine < CANDIDATOS-PRESIDENTE.sql
+2- psql -U postgres -W -h localhost ine < CANDIDATOS-PRESIDENTE.sql
 
 
 
 
-psql -U postgres -W -h localhost ine < CANDIDATOS-SENADOR.sql
+3- psql -U postgres -W -h localhost ine < CANDIDATOS-SENADOR.sql
 
 
 
