@@ -3,7 +3,11 @@
 """
 Created on Sat Dec 29 02:54:09 2018
 
-@author: fredy
+@author: fredy m
+
+uaem
+
+desonses@gmail.com
 """
 
 import psycopg2
