@@ -1,13 +1,20 @@
-psql -U postgres -W -h localhost ine < DIPUTACIONES-VOTOS.sql
+###########
+Ejecuta estasinstrucciones desde tu terminal de windows para poblar la base de datos, o abre los archivos SQL con algun gestor de DB,
+como MySQL Workbench
+###########
 
 
 
-psql -U postgres -W -h localhost ine < PRESIDENCIA-VOTOS.sql
+1- psql -U postgres -W -h localhost ine < DIPUTACIONES-VOTOS.sql
+
+
+
+2- psql -U postgres -W -h localhost ine < PRESIDENCIA-VOTOS.sql
 
 
 
 
-psql -U postgres -W -h localhost ine < SENADURIAS-VOTOS.sql
+3- psql -U postgres -W -h localhost ine < SENADURIAS-VOTOS.sql
 
 
 
